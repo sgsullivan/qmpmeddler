@@ -1,0 +1,23 @@
+{
+	"ImportPath": "github.com/sgsullivan/qmpmeddler",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/davecgh/go-xdr/xdr2",
+			"Rev": "e6a2ba005892b6a5b27cb5352f64c2e96942dd28"
+		},
+		{
+			"ImportPath": "github.com/digitalocean/go-libvirt",
+			"Rev": "975d5a18d5b404ab9a808d16fdab122513c367d5"
+		},
+		{
+			"ImportPath": "github.com/digitalocean/go-libvirt/internal/constants",
+			"Rev": "975d5a18d5b404ab9a808d16fdab122513c367d5"
+		},
+		{
+			"ImportPath": "github.com/digitalocean/go-qemu/qmp",
+			"Rev": "2d4910f0b53de0a8b831c381041569d5d7d8e559"
+		}
+	]
+}
